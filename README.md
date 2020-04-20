@@ -1,2 +1,2 @@
-# Bushido14.github.io
+# Bushido
 My first site 
