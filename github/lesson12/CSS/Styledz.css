@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box; /* Необходим для правильного подгона по размеру */
+}
+
+.head {
+	background-color: black;
+	height: 30px;
+	position: fixed;
+	top: 0;
+    right: 3.5%;
+    width: 93%;
+    text-align: right;
+    font-style: italic;
+
+}
+
+a {
+	color: #d0d0d0;
+	text-align: center;
+	text-decoration: none;
+	padding: 2px;
+	margin-top: 2px;
+	margin-right: 35px;
+
+	display: inline-block;
+}
+
+.text {
+	background-color: white;
+height: auto;
+width:auto;
+text-indent: 2em;
+margin-top: 2px;
+margin-right: 60px;
+margin-left: 60px;
+margin-top: 30px;
+text-align: justify;
+}
+
+

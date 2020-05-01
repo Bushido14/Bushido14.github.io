@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../shrift/Lato-Regular.eot');
+    src: url('../shrift/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../shrift/Lato-Regular.woff2') format('woff2'),
+        url('../shrift/Lato-Regular.woff') format('woff'),
+        url('../shrift/Lato-Regular.ttf') format('truetype'),
+        url('../shrift/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Bebas Neue Cyrillic';
+    src: url('../shrift/BebasNeueCyrillic.eot');
+    src: url('../shrift/BebasNeueCyrillic.eot?#iefix') format('embedded-opentype'),
+        url('../shrift/BebasNeueCyrillic.woff2') format('woff2'),
+        url('../shrift/BebasNeueCyrillic.woff') format('woff'),
+        url('../shrift/BebasNeueCyrillic.ttf') format('truetype'),
+        url('../shrift/BebasNeueCyrillic.svg#BebasNeueCyrillic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+
+.result {
+    font-family: 'Bebas Neue Cyrillic';
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
